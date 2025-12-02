@@ -49,7 +49,7 @@ more stable data transmission.
 
 The following diagram illustrates the OSI model for HTTP/2 and HTTP/3 [1]:
 
-![HTTP/2 & HTTP/3 OSI model](https://cloudspoint.xyz/wp-content/uploads/2022/03/http3.png)
+![HTTP/2 & HTTP/3 OSI model](https://web.archive.org/web/20250624080637if_/https://cloudspoint.xyz/wp-content/uploads/2022/03/http3.png)
 
 A web browser connection typically entails the following **(TCP+TLS+HTTP/2)**:
 
